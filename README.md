@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Adi 👋
 
-<!--
-**adi-codes905/adi-codes905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering student  
+💻 Learning Web Development  
+🌱 Currently focusing on HTML, CSS, and JavaScript  
 
-Here are some ideas to get you started:
+### Skills (Beginner)
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Goals
+- Build strong fundamentals
+- Create real projects
+- Stay consistent every day
+
+📌 This profile will improve as I learn.
